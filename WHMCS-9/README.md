@@ -3,6 +3,8 @@
 Provisioning module for [OpenPanel](https://openpanel.com), rewritten for WHMCS 9.x.
 It is based on the v1 module in the root of this repository.
 
+![The OpenPanel Account panel on a service in the WHMCS 9 admin area](screenshots/account_manage.png)
+
 ## Requirements
 
 - WHMCS 9.0 or later, on PHP 8.2 or 8.3
